@@ -1,6 +1,6 @@
 %This Matlab script can be used to generate Figure 8 in the book chapter:
 %
-%Trinh Van Chien, Emil Bjornson, ?Massive MIMO Communications,? in 5G
+%Trinh Van Chien, Emil Björnson, "Massive MIMO Communications," in 5G
 %Mobile Communications, W. Xiang et al. (eds.), pp. 77-116, Springer, 2017.
 %
 %Download article: -
